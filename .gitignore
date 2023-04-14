@@ -1,0 +1,28 @@
+# Ignore Visual Studio hidden files
+.vs/
+
+# Ignore Mac OS hidden files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Ignore files for HTML and CSS
+node_modules/
+dist/
+build/
+*.log
+*.tmp
+*.pid
+*.gz
+*.zip
+*.rar
+*.tar
+*.exe
+*.dll
+*.so
+*.dylib
+*.bak
+*.swp
+*.swo
